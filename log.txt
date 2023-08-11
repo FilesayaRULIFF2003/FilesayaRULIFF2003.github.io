@@ -1,0 +1,3 @@
+08-03 21:15:46.574 16951 16951 E .apps.nbu.file: Not starting debugger since process cannot load the jdwp agent.
+08-03 21:27:05.253 16951 19271 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+08-03 21:27:05.811 16951 19268 E libc    : Access denied finding property "ro.hardware.chipname"
